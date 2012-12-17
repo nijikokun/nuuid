@@ -28,7 +28,7 @@ var nuu = require('nuuid');
 <script src="lib/nuuid.js" type="text/javascript"></script>
 ```
 
-### License
+## License
 
 (The MIT License)
 
