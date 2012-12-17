@@ -1,0 +1,25 @@
+{
+  "name": "nuuid",
+  "version": "0.2.0",
+  "description": "Unique Universal Identifier based on Entropy, Math, and Time while still being faster than uuid.",
+  "main": "./lib/nuuid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/Nijikokun/nuuid.git"
+  },
+  "keywords": [
+    "uuid",
+    "unique",
+    "identifier",
+    "id",
+    "universal",
+    "entropy",
+    "salt"
+  ],
+  "author": "Nijiko Yonskai <nijikokun@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
